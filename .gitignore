@@ -1,0 +1,7 @@
+*.o
+*.cmd
+/vmlinux
+*.builtin
+*.order
+
+.config
